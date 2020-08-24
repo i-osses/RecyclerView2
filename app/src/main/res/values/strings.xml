@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerView2</string>
+    <string name="first_task_message_by_default">First Task Message by default</string>
+</resources>
